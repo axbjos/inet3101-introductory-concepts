@@ -19,6 +19,6 @@ int main() {
     // You could even change a value in the array
     helloWorld[6] = 'h';
 
-    printf("%c", helloWorld);
+    printf("%s", helloWorld);
 
 }
